@@ -7,10 +7,11 @@ public class Soru1 {
 	 @SuppressWarnings("resource")
 	public static void main(String[] args) {
 		 /*
-	     * Stringi ters çevirmek için bir Java Programı yazın 
+		 Kendin Ã§Ã¶zmeyi dene
+	     * Stringi ters Ã§evirmek iÃ§in bir Java ProgramÃ½ yazÃ½n 
 	     * 1.Yol: StringBuilder() kullanarak
 	     * 2.Yol: String Classini kullanarak 
-	     * 3.Yol: Bir method oluşturun, ardından methodu main method dan çağırın
+	     * 3.Yol: Bir method oluÃ¾turun, ardÃ½ndan methodu main method dan Ã§aÃ°Ã½rÃ½n
 	     */
 	    
 	       
